@@ -25,7 +25,7 @@ User: user & Pass: pass
 ------------------
 
 **Description:**
-Test the Autocomplete search function
+Test the Autocomplete search function.
 
 **Steps to reproduce**
 1. Go to Search Bar
@@ -35,7 +35,7 @@ Test the Autocomplete search function
 5. Observe if the search returned the correct products
 
 **Expected results**
-User should be able to use the autocomplete function inside the Search Bar when entering the names of the products (eg: laptop)
+User should be able to use the autocomplete function inside the Search Bar when entering the names of the products (eg: laptop).
 
 **Test data**
 Data: lap
